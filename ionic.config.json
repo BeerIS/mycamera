@@ -1,6 +1,8 @@
 {
   "name": "mycamera",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "ionic-angular",
   "id": "778af3bd"
 }
